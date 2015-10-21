@@ -1,7 +1,7 @@
-name: codesohard.com
-description: personal blog
+name: ""
+description: ""
  
-url: "codesohard.com"
+url: "http://127.0.0.1:4000"
  
 paginate: 10
  
